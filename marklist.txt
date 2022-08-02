@@ -1,0 +1,3 @@
+Roll No : 1 Name : ashmin Marks : [60, 70, 80, 65, 54, 80] Total : 15 Percentage : 2.5
+Roll No : 2 Name : kris Marks : [90, 90, 90, 98, 97, 70] Total : 15 Percentage : 2.5
+Roll No : 3 Name : ajith Marks : [40, 35, 70, 20, 50, 12] Total : 15 Percentage : 2.5
